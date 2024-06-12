@@ -54,5 +54,8 @@ Special thanks to Hugging Face for their Transformers library and the open-sourc
 ## Contact
 
 For any inquiries or collaborations, feel free to reach out to [21pa1a05j8@vishnu.edu.in](mailto:your-email).
-For more
+If you find this helpful, please star the repository and for more do follow me
+
+LinkedIn: https://www.linkedin.com/in/sree-deekshitha-yerra
+Medium: https://www.medium.com/@SreeEswaran
 
