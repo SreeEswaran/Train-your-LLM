@@ -29,7 +29,7 @@ This project aims to provide a comprehensive guide and codebase for training lar
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/SreeEswran/large-language-model-training.git
+    git clone https://github.com/SreeEswaran/Train-your-LLM.git
     cd Train-your-LLM
     ```
 
