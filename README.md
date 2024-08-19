@@ -2,6 +2,8 @@
 
 This repository contains code and resources for training, fine-tuning, and deploying large language models using Hugging Face's Transformers library. The aim of this repo is to provide a comprehensive guide and codebase for training large language models from scratch or fine-tuning pre-trained models for specific tasks.
 
+If you're interested in a detailed, step-by-step explanation of how this project was built, including code walkthroughs and in-depth analysis, check out my [Medium blog post- "Step-by-Step Guide to Train a Large Language Model (LLM) with code" By Sree Deekshitha Yerra](https://blog.gopenai.com/step-by-step-guide-to-train-a-large-language-model-llm-with-code-1f536c34694e). 
+
 ## Features
 
 - Data preprocessing scripts to clean and tokenize text data.
